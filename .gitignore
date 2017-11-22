@@ -1,5 +1,10 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
+### eclipse ###
+.project 
+.classpath
+.settings
+.settings/*
 
 ### STS ###
 .apt_generated
